@@ -1,0 +1,25 @@
+{
+  "name": "zohocrmapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushalbhandari37/ZohoCrmApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kushalbhandari37/ZohoCrmApi/issues"
+  },
+  "homepage": "https://github.com/kushalbhandari37/ZohoCrmApi#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  }
+}
